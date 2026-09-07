@@ -10,6 +10,7 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/kotlinClaseObjetos" />
             <option value="$PROJECT_DIR$/kotlinCondicional" />
             <option value="$PROJECT_DIR$/kotlinNulabilidad" />
           </set>
