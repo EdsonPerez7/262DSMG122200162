@@ -24,4 +24,5 @@ dependencyResolutionManagement {
 
 rootProject.name = "Conceptos Basicos de Kotlin"
 include(":app")
- 
+include(":kotlinCondicional")
+include(":kotlinNulabilidad")
